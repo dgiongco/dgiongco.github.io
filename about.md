@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img style="margin:0px auto;display:block" src="/images/dg.jpg"/>
+<img style="margin:0px auto;display:block" src="/_images/dg.jpg"/>
 
 My name is David Giongco (pronounced jeeôngkō). I'm a registered civil engineer with the [California Department of Transportation (Caltrans)][1] and currently the [District 3 Local Assistance Engineer][2].
 
