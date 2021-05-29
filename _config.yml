@@ -1,1 +1,6 @@
+title: David Giongco
+baseurl: ""
 theme: minima
+permalink: /:title.html
+header_pages:
+  -about.md
