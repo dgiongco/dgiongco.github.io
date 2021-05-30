@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: Contact
 ---
+## Contact
+
 <form
   action="https://formspree.io/f/mzbyrgkr"
   method="POST"
