@@ -73,8 +73,8 @@ For additional information about NEPA Reevaluations, I recommend the following r
 [^4]: Processing times will vary depending on District workload.
 
  [1]: http://www.dot.ca.gov/hq/LocalPrograms/lam/forms/chapter6/6g.docx
- [2]: /_images/reevaluation-graphic.jpg
- [3]: /_images/reevaluation-chart.png
+ [2]: /images/reevaluation-graphic.jpg
+ [3]: /images/reevaluation-chart.png
  [4]: http://www.dot.ca.gov/hq/LocalPrograms/lam/forms/chapter6/6a.docx
  [5]: http://www.dot.ca.gov/hq/LocalPrograms/DLA_OB/ob-13-02-attachment.docx
  [6]: http://www.dot.ca.gov/ser/vol1/sec4/ch33reeval/chap33reeval.htm
