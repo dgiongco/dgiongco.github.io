@@ -7,5 +7,4 @@ plugins:
   - jekyll-feed
 header_pages:
   - about.md
-  - resources.md
   - contact.md
