@@ -13,7 +13,7 @@ More importantly, I'm a husband to a [lovely woman][4], father of two awesome gi
 
 **About the Site**
 
-I originally created this site in 2011 to serve as a log for my reference, but it has evolved into a platform where I share news, advice, and [resources](11) with others who also work on federal-aid transportation projects. The topics I share vary from local programs policy and procedure updates to my observations working with local agencies and their projects. Here are a few posts that have been frequently visited:
+I originally created this site in 2011 to serve as a log for my reference, but it has evolved into a platform where I share news, advice, and [resources][11] with others who also work on federal-aid transportation projects. The topics I share vary from local programs policy and procedure updates to my observations working with local agencies and their projects. Here are a few posts that have been frequently visited:
 
 * [Understanding NEPA Reevaluations][5]
 * [Why 88.53?][6]
@@ -43,4 +43,4 @@ If you would like to contact me, [send me a message](/contact).
 [11]: /resources.html
 [12]: http://catc.ca.gov
 
-[^1]: My loyalty ended when Silver and Black packed their bags for Vegas.
+[^1]: My loyalty ended when the Silver and Black packed their bags for Vegas.
