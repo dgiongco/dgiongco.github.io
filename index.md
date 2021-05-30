@@ -1,21 +1,21 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
 
 <img style="margin:0px auto;display:block" src="/images/dg.jpg">
 
-My name is David Giongco (pronounced jeeôngkō). I'm a registered civil engineer and the Deputy Director for the [City of Chico Public Works - Engineering Department](1). Before joining the City, I was with the [California Department of Transportation (Caltrans)][2] in various positions and served in the U.S. Air Force as a [Civil Engineer Officer][3].
+Hello. My name is David Giongco (pronounced *jeeôngkō*).
 
-Throughout my career, I've been involved in the planning, design, construction, and maintenance of transportation projects. I've had the opportunity to participate on [Federal Highway Administration][10] and [California Transportation Commission][12] to learn about multiple funding programs and policies.
+I'm a registered civil engineer and the Deputy Director for the [City of Chico Public Works - Engineering Department](1). Before joining the City, I was with the [California Department of Transportation (Caltrans)][2] in various positions and served in the U.S. Air Force as a [Civil Engineer Officer][3].
 
-More importantly, I'm a husband to a [lovely woman][4], father of two awesome girls, and an aspiring bogey-golfer.
+I've constributed the planning, design, construction, and maintenance of transportation projects. I've had the opportunity to participate in [Federal Highway Administration][4] and [California Transportation Commission][5] to learn about multiple funding programs and policies and assist regional and local agencies in delivering their projects.
+
+More importantly, I'm a husband to a [lovely woman][6], father of two awesome girls, and an aspiring bogey-golfer.
 
 
 [1]: https://chico.ca.us/engineering
 [2]: http://www.dot.ca.gov
 [3]: http://usmilitary.about.com/library/milinfo/afoffjobs/bl32ex.htm
-[4]: http://chantelgiongco.com
-[10]: http:/dot.gov
-[12]:http://catc.ca.gov
+[4]: http:/dot.gov
+[5]:http://catc.ca.gov
+[6]: http://chantelgiongco.com
