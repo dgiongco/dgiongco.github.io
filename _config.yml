@@ -1,6 +1,9 @@
 title: David Giongco
 baseurl: ""
+markdown: kramdown
 theme: minima
 permalink: /:title.html
+plugins:
+  - jekyll-feed
 header_pages:
-  -about.md
+  - about.md
