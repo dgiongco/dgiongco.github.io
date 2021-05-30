@@ -71,7 +71,6 @@ This page was last updated **04/01/2014**
 * [ADA Grievances – Intake Request Form][30]
 * [California SRTS Technical Assistance Resource Center][36]
 * [District Local Assistance Contact Information][38]
-* [My Presentations](https://speakerdeck.com/dgiongco)
 
 [0]: http://www.leginfo.ca.gov/cgi-bin/calawquery?codesection=shc
 [4]: http://www.dot.ca.gov/hq/LocalPrograms/
