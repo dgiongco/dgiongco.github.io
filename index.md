@@ -16,6 +16,6 @@ More importantly, I'm a husband to a [lovely woman][6], father of two awesome gi
 [1]: https://chico.ca.us/engineering
 [2]: http://www.dot.ca.gov
 [3]: http://usmilitary.about.com/library/milinfo/afoffjobs/bl32ex.htm
-[4]: http:/dot.gov
-[5]:http://catc.ca.gov
+[4]: http://www.fhwa.dot.gov
+[5]: http://catc.ca.gov
 [6]: http://chantelgiongco.com
