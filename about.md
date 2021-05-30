@@ -2,6 +2,9 @@
 layout: default
 title: About
 ---
+
+**About the Site**
+
 I originally created this site in 2011 to serve as a log for my reference, but it has evolved into a platform where I share news, advice, and [resources][11] with others who also work on federal-aid transportation projects. The topics I share vary from local programs policy and procedure updates to my observations working with local agencies and their projects. Here are a few posts that have been frequently visited:
 
 * [Understanding NEPA Reevaluations][5]
@@ -15,14 +18,7 @@ This site is **NOT** an official publication of the [Department of Transportatio
 
 I do my best to share the most accurate and current information available. There, however, may be mistakes, and with the constantly evolving environment of tranaportation funding and policies, some details may have become inaccurate by the time a post is read.
 
-**Contact**
 
-If you would like to contact me, [send me a message](/contact).
-
-[1]: https://chico.ca.us/engineering
-[2]: http://www.dot.ca.gov
-[3]: http://usmilitary.about.com/library/milinfo/afoffjobs/bl32ex.htm
-[4]: http://chantelgiongco.com
 [5]: /nepa-reevaluations.html
 [6]: /why-88.53.html
 [7]: /dbe-contract-goal-setting.html
