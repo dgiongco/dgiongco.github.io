@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 ---
-## Contact
+# Contact
 
 <form
   action="https://formspree.io/f/mzbyrgkr"
