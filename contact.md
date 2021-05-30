@@ -11,7 +11,7 @@ title: Contact
     <input type="email" name="_replyto">
   </label>
   
-  <label>
+  <br><label>
     Your message:
     <textarea name="message"></textarea>
   </label>
