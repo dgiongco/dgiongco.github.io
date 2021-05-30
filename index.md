@@ -2,9 +2,9 @@
 layout: page
 ---
 
-<img style="margin:0px auto;display:block" src="/images/dg.jpg">
+# Hello. My name is David Giongco # [^1]
 
-Hello. My name is David Giongco (pronounced *jeeôngkō*).
+<img style="margin:0px auto;display:block" src="/images/dg.jpg">
 
 I'm a registered civil engineer and the Deputy Director for the [City of Chico Public Works - Engineering Department](1). Before joining the City, I was with the [California Department of Transportation (Caltrans)][2] in various positions and served in the U.S. Air Force as a [Civil Engineer Officer][3].
 
@@ -19,3 +19,5 @@ More importantly, I'm a husband to a [lovely woman][6], father of two awesome gi
 [4]: http://www.fhwa.dot.gov
 [5]: http://catc.ca.gov
 [6]: http://chantelgiongco.com
+
+[^1]: Pronounced *jeeôngkō*. But I'm used to hearing the creative variations.
