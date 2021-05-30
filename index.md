@@ -8,7 +8,7 @@ layout: page
 
 My name is David Giongco (pronounced jeeôngkō). I'm a registered civil engineer and the Deputy Director for the [City of Chico Public Works - Engineering Department](1). Before joining the City, I was with the [California Department of Transportation (Caltrans)][2] in various positions and served in the U.S. Air Force as a [Civil Engineer Officer][3].
 
-Throughout my career, I've been involved in the planning, design, construction, and maintenance of transportation projects. I've had the opportunity to participate on [Federal Highway Administration][10] and [California Transportation Commission](12) to learn about multiple funding programs and policies.
+Throughout my career, I've been involved in the planning, design, construction, and maintenance of transportation projects. I've had the opportunity to participate on [Federal Highway Administration][10] and [California Transportation Commission][12] to learn about multiple funding programs and policies.
 
 More importantly, I'm a husband to a [lovely woman][4], father of two awesome girls, and an aspiring bogey-golfer.
 
@@ -17,3 +17,5 @@ More importantly, I'm a husband to a [lovely woman][4], father of two awesome gi
 [2]: http://www.dot.ca.gov
 [3]: http://usmilitary.about.com/library/milinfo/afoffjobs/bl32ex.htm
 [4]: http://chantelgiongco.com
+[10]: http:/dot.gov
+[12]:http://catc.ca.gov
