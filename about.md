@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-**About the Site**
+# About the Site
 
 I originally created this site in 2011 to serve as a log for my reference, but it has evolved into a platform where I share news, advice, and [resources][11] with others who also work on federal-aid transportation projects. The topics I share vary from local programs policy and procedure updates to my observations working with local agencies and their projects. Here are a few posts that have been frequently visited:
 
