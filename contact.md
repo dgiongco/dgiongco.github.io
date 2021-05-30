@@ -2,9 +2,20 @@
 layout: page
 title: Contact
 ---
+<form
+  action="https://formspree.io/f/mzbyrgkr"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
-<form method="POST" action="https://formspree.io/{{ site.email }}">
-  <p><input type="email" name="email" placeholder="Your email"></p>
-  <p><textarea name="message" placeholder="Your message"></textarea></p>
-  <button type="submit">Submit</button>
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
 </form>
