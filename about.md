@@ -9,7 +9,7 @@ My name is David Giongco (pronounced jeeôngkō). I'm a registered civil enginee
 
 Throughout my career, I've been involved in the planning, design, construction, and maintenance of transportation projects. I've had the opportunity to participate on [Federal Highway Administration][10] and [California Transportation Commission](12) to learn about multiple funding programs and policies.
 
-More importantly, I'm a husband to a [lovely woman][4], father of two awesome girls; and an aspiring bogey golfer ~~and loyal Oakland Raiders season ticket holder~~[^1].
+More importantly, I'm a husband to a [lovely woman][4], father of two awesome girls, and an aspiring bogey-golfer.
 
 **About the Site**
 
@@ -42,5 +42,3 @@ If you would like to contact me, [send me a message](/contact).
 [10]: http://www.fhwa.dot.gov
 [11]: /resources
 [12]: http://catc.ca.gov
-
-[^1]: My loyalty ended when the Silver and Black packed their bags for Vegas.
