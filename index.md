@@ -11,3 +11,9 @@ My name is David Giongco (pronounced jeeôngkō). I'm a registered civil enginee
 Throughout my career, I've been involved in the planning, design, construction, and maintenance of transportation projects. I've had the opportunity to participate on [Federal Highway Administration][10] and [California Transportation Commission](12) to learn about multiple funding programs and policies.
 
 More importantly, I'm a husband to a [lovely woman][4], father of two awesome girls, and an aspiring bogey-golfer.
+
+
+[1]: https://chico.ca.us/engineering
+[2]: http://www.dot.ca.gov
+[3]: http://usmilitary.about.com/library/milinfo/afoffjobs/bl32ex.htm
+[4]: http://chantelgiongco.com
