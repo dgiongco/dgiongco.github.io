@@ -40,7 +40,7 @@ If you would like to contact me, [send me a message](/contact).
 [8]: /2014-atp-staff-recommendations.html
 [9]: https://www.transportation.gov
 [10]: http://www.fhwa.dot.gov
-[11]: /resources.html
+[11]: /resources
 [12]: http://catc.ca.gov
 
 [^1]: My loyalty ended when the Silver and Black packed their bags for Vegas.
