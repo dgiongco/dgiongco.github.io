@@ -6,15 +6,15 @@ title: Contact
   action="https://formspree.io/f/mzbyrgkr"
   method="POST"
 >
-  <label>
+  <p><label>
     Your email:
     <input type="email" name="_replyto">
-  </label>
+    </label></p>
   
-  <br><label>
+  <p><label>
     Your message:
     <textarea name="message"></textarea>
-  </label>
+    </label></p>
 
   <!-- your other form fields go here -->
 
