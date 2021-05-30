@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-Below are various sites and resources that I commonly refer to and share. If there's a helpful site not listed that you think is worth sharing, please <a href="mailto:dgiongco@dot.ca.gov?Subject=Recommended%20site">let me know</a>. 
+Below are various sites and resources that I commonly refer to and share. If there's a helpful site not listed that you think is worth sharing, please [let me know](/contact.html). 
 
 This page was last updated **04/01/2014**
 
