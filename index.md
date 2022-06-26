@@ -7,7 +7,7 @@ layout: page
 
 I'm a registered civil engineer and a Deputy Director for the [City of Yuba City Public Works Department](1). Before joining the City, I was with the [California Department of Transportation (Caltrans)][2] in various positions and served in the U.S. Air Force as a [Civil Engineer Officer][3].
 
-I've constributed the planning, design, construction, and maintenance of transportation projects. I've had the opportunity to participate in [Federal Highway Administration][4] and [California Transportation Commission][5] to learn about multiple funding programs and policies and assist regional and local agencies in delivering their projects.
+I've contributed to the planning, design, construction, and maintenance of transportation projects. I've had the opportunity to work with the [Federal Highway Administration][4] and [California Transportation Commission][5] to learn about multiple funding programs and policies to assist regional and local agencies in delivering their projects.
 
 More importantly, I'm a husband to a [lovely woman][6], father of two [awesome girls][7], and an aspiring bogey-golfer.
 
