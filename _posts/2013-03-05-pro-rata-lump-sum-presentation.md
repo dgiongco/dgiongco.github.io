@@ -1,5 +1,5 @@
 ---
-title: '&#8220;Pro Rata or Lump Sum&#8221; Presentation (SACOG RPP)'
+title: Pro Rata or Lump Sum Presentation (SACOG RPP)
 author: dgiongco
 layout: post
 categories:
