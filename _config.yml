@@ -8,4 +8,5 @@ plugins:
   - jekyll-feed
 header_pages:
   - personal-values.md
+  - blog.md
   - contact.md
