@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personal Values
+title: Values
 ---
 
 # Values
