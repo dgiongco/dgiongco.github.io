@@ -7,6 +7,6 @@ permalink: /:title.html
 plugins:
   - jekyll-feed
 header_pages:
-  - personal-values.md
+  - values.md
   - blog.md
   - contact.md
