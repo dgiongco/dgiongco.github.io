@@ -9,4 +9,5 @@ plugins:
 header_pages:
   - values.md
   - blog.md
+  - terms.md
   - contact.md
