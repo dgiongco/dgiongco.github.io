@@ -7,3 +7,4 @@ permalink: /:title.html
 plugins:
   - jekyll-feed
 header_pages:
+  - contact.md
