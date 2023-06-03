@@ -3,7 +3,7 @@ layout: default
 title: Personal Values
 ---
 
-# Personal Values
+# Values
 
 These values guide my decisions and actions in my personal and professional life. By incorporating connection, authenticity, and impact into my daily experiences, I aim to create a life that is meaningful, fulfilling, and true to who I am.
 
