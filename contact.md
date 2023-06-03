@@ -4,4 +4,4 @@ title: Contact
 ---
 # Contact
 
-<a href="mailto:david@giongco.com&subject=Website%20Contact">Email me</a> if you'd like to connect.
+If you're trying to contact me, <a href="mailto:david@giongco.com&subject=Website%20Contact">email</a> or connect on <a href="https://www.linkedin.com/in/dgiongco/">LinkedIn</a>.
