@@ -3,9 +3,7 @@ layout: default
 title: Values
 ---
 
-# Values
-
-These values guide my decisions and actions in my personal and professional life. By incorporating connection, authenticity, and impact into my daily experiences, I aim to create a life that is meaningful, fulfilling, and true to who I am.
+Connection, authenticity, and impact reflect the principles and ideals that guide my thoughts, actions, and decisions:
 
 * ***Connection***: Connection is critical to me. It means building and encouraging meaningful relationships with the people in my life. I value the power of human interaction, empathy, and understanding. It's about creating a sense of belonging and forming genuine connections with others. I prioritize engaging in sincere conversations and supporting others in their journeys. Connection goes beyond surface-level interactions; it's about fostering a strong network of relationships and feeling interconnected with my community.
 * ***Authenticity***: Authenticity is at the core of who I am. It means being true to myself and embracing my genuine identity. I value honesty, transparency, and integrity in all aspects of my life. Being authentic means living in alignment with my core beliefs, values, and passions rather than conforming to societal expectations or wearing masks to please others. It's about embracing my strengths and vulnerabilities, expressing my thoughts and emotions honestly, and celebrating my unique qualities without fear of judgment. I seek environments and relationships that encourage and appreciate authenticity.
